@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+/vJS/wc0s=",
+  "success": true,
+  "projectFilePath": "/home/tailsmonster/RiderProjects/inventory-system/ConsoleInventorySystem/ConsoleInventorySystem.csproj",
+  "expectedPackageFiles": [
+    "/home/tailsmonster/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
